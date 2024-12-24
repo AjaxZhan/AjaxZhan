@@ -12,7 +12,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats-tawny-iota-29.vercel.app/api?username=ajaxzhan&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats-tawny-iota-29.vercel.app/api/top-langs/?username=ajaxzhan&layout=compact)
+![Top Langs](https://github-readme-stats-tawny-iota-29.vercel.app/api/top-langs/?username=ajaxzhan&layout=compact&hide=Fluent,CSS,HTML)
 
 ### developed projects
 

@@ -1,6 +1,6 @@
 ## About Me
 
-👋 I am a fourth-year Computer Science undergraduate at Sichuan University, China. I will soon begin my master’s studies at the Harbin Institute of Technology, Shenzhen. My research interests include AI4SE, code intelligence, and NLP.
+👋 I am a fourth-year Computer Science undergraduate at Sichuan University, China. I will soon begin my master’s studies at the Harbin Institute of Technology, Shenzhen. My research interests include AI4SE, code intelligence, and agentic evaluation.
 
 ---
 

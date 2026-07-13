@@ -1,6 +1,6 @@
-## About Me
+## 👋 About Me
 
-👋 I am a fourth-year Computer Science undergraduate at Sichuan University, China. I will soon begin my master’s studies at the Harbin Institute of Technology, Shenzhen. My research interests include AI4SE, code intelligence, and agentic evaluation.
+I am a first-year Master's student in Computer Science at the Harbin Institute of Technology, Shenzhen, having previously completed my undergraduate studies at Sichuan University, China. My research interests include AI4SE, Agentic Coding, Self-evolving Agents, and Agentic Verification.
 
 ---
 

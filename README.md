@@ -13,7 +13,7 @@ I am a first-year Master's student in Computer Science at the Harbin Institute o
   </a>
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="160" src="https://github-readme-stats-tawny-iota-29.vercel.app/api/top-langs/?username=ajaxzhan&layout=compact&hide=Fluent,CSS,HTML,Less,SCSS,Stylus,Jupyter%20Notebook"/>
+    <img height="160" src="https://github-readme-stats-tawny-iota-29.vercel.app/api/top-langs/?username=ajaxzhan&layout=compact&hide=Fluent,CSS,HTML,Less,SCSS,vue,Stylus,Jupyter%20Notebook"/>
   </a>
 
 </div>
